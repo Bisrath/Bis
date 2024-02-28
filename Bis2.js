@@ -1,3 +1,3 @@
 <script>
-  alert("Hello Bis2")
+  alert("Hello Bis2 From NotePad")
   </script>
